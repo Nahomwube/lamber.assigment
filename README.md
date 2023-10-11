@@ -1,2 +1,4 @@
 # lamber.assigment
-this my firs coding
+this my first coding
+i want to learn hacking
+
